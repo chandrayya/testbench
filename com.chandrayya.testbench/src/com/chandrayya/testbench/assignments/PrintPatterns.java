@@ -4,9 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- *  Prints patterns on console
- */
 public class PrintPatterns {
 	
 	public static void main(String[] args) {
